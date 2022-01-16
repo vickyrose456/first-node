@@ -1,0 +1,23 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "First node server",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyrose456/first-node.git"
+  },
+  "author": "Victoria Olivieri",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vickyrose456/first-node/issues"
+  },
+  "homepage": "https://github.com/vickyrose456/first-node#readme",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
+}
